@@ -10,14 +10,15 @@
  - Google Drive, Calendar
 
 # Articles 
-https://collegeinfogeek.com/engineering-school-survival-guide/
-https://collegeinfogeek.com/exam-prep-cycle/
-https://collegeinfogeek.com/avoid-cognitive-biases/
-https://www.cmu.edu/teaching/designteach/teach/examwrappers/
+- https://www.phyzzle.com/is-engineering-hard/
+- https://collegeinfogeek.com/engineering-school-survival-guide/
+- https://collegeinfogeek.com/exam-prep-cycle/
+- https://collegeinfogeek.com/avoid-cognitive-biases/
+- https://www.cmu.edu/teaching/designteach/teach/examwrappers/
 # People
-https://www.phyzzle.com/
-https://collegeinfogeek.com
-https://betterexplained.com/
+- https://www.phyzzle.com/
+- https://collegeinfogeek.com
+- https://betterexplained.com/
 # Talks
 # books
 |  |  |  |  |  | 
