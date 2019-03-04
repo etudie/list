@@ -10,6 +10,7 @@
  - Google Drive, Calendar
 
 # Articles 
+https://collegeinfogeek.com/engineering-school-survival-guide/
 https://collegeinfogeek.com/exam-prep-cycle/
 https://collegeinfogeek.com/avoid-cognitive-biases/
 https://www.cmu.edu/teaching/designteach/teach/examwrappers/
