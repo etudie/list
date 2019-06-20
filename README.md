@@ -8,6 +8,8 @@
  - On Top
  - Daylio
  - Google Drive, Calendar
+ - Todoist
+ - Beeminder
 
 # Articles 
 - https://www.phyzzle.com/is-engineering-hard/
@@ -21,7 +23,6 @@
 - https://betterexplained.com/
 # Talks
 - [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
-- ![graph](https://i.imgur.com/s2aQOLW.png)
 - `It's not going to happen through osmosis`
 
 # books
